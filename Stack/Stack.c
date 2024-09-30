@@ -107,5 +107,4 @@ int main(void)
     popStack(&mystack);
     printStack(&mystack);
     printf("stack top element is %d \n",peekStack(&mystack));
-
 }
